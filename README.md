@@ -81,6 +81,14 @@ usuários.
 
 - **Metodologia Ágil:** Framework <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a>
 
+---
+
+## 📂 Apresentando o Projeto 
+
+🔗 Para visualizar a apresentação do protótipo <a href="" target="_blank">clique aqui</a>
+
+---
+
 ## 📈 Product Backlog
 
 <picture>
