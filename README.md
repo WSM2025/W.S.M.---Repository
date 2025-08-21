@@ -43,6 +43,16 @@ galpões).
 
 >Requisitos Não Funcionais
 
+* Performance – O sistema deve responder a consultas em menos de 3
+segundos, mesmo com alto volume de dados.
+* Segurança – Autenticação de usuários com níveis de acesso (ex:
+funcionário vs. administrador).
+* Disponibilidade – Sistema acessível 24/7 (exceto para manutenção
+programada).
+* Backup Automático – Cópia diária dos dados em servidor externo ou
+cloud.
+* Usabilidade – Interface intuitiva, com treinamento rápido para novos
+usuários.
 
 
 
@@ -54,10 +64,3 @@ galpões).
 
 
 
-
-
-
-
-<br>**Pré-requisitos:**<br>
-
->Requisitos Não Funcionais
