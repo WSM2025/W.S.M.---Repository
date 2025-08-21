@@ -84,8 +84,8 @@ usuários.
 ## Product Backlog
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yMotaz/W.S.M.---Repository-/blob/main/images/logo%20principal_branca%20(2).png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yMotaz/W.S.M.---Repository-/blob/main/images/logo%20principal_Preto%20(1).png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/graficobranco.jpeg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/graficopreto.jpeg">
   <img alt="Logo do projeto" src="logo_preta.png" width="300px">
 </picture>
 
