@@ -1,7 +1,7 @@
 # W.S.M.---Repository
 
 <div align="left">
-<img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/svfac.png" width="200px"/>
+<img src="[https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/svfac.png](https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/logo%20principal_branca.png)" width="200px"/>
 </div>
 
 # Tema do Semestre
