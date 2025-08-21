@@ -1,4 +1,4 @@
-# W.S.M.---Repository
+# 🛠️ W.S.M.---Repository
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yMotaz/W.S.M.---Repository-/blob/main/images/logo%20principal_branca%20(2).png">
@@ -6,17 +6,17 @@
   <img alt="Logo do projeto" src="logo_preta.png" width="300px">
 </picture>
 
-### 🎯 Tema do Semestre
+## 🎯 Tema do Semestre
 *Service Facilty*
 
 <div align="left">
 <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/svfac.png" width="200px"/>
 </div>
 
-### Desafio
+## Desafio
 *Temos o desafio de desenvolver um sistema de gerenciamento de estoque voltado para a empresa Service Facility prestadora de serviços de instalação de ar-condicionado em residências, prédios e estabelecimentos comerciais, com o objetivo de controlar de forma eficiente a entrada, saída e a quantidade disponível de produtos e equipamentos. O sistema visa melhorar a organização dos materiais, otimizar o tempo de reposição, reduzir perdas e promover uma gestão mais eficaz dos recursos.*
 
-### 📌 Escopo do Projeto
+## 📌 Escopo do Projeto
 
 <br>**Pré-requisitos:**<br>
 ## >Requisitos Funcionais
