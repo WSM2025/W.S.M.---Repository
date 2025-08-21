@@ -32,11 +32,32 @@ do nível definido.
 garantir rastreabilidade.
 * Relatórios de Estoque – Emitir relatórios de inventário, movimentação e
 giro de produtos.
-● Integração com Nota Fiscal – Associar entradas/saídas a documentos
+* Integração com Nota Fiscal – Associar entradas/saídas a documentos
 fiscais (NF-e, XML).
-● Reserva de Produtos – Bloquear itens para vendas ou serviços
+* Reserva de Produtos – Bloquear itens para vendas ou serviços
 agendados.
-● Histórico de Movimentações – Consultar transações passadas por
+* Histórico de Movimentações – Consultar transações passadas por
 produto, data ou cliente.
-● Multi-depósitos – Gerenciar estoque em diferentes locais (lojas,
+* Multi-depósitos – Gerenciar estoque em diferentes locais (lojas,
 galpões).
+
+>Requisitos Não Funcionais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>**Pré-requisitos:**<br>
+
+>Requisitos Não Funcionais
