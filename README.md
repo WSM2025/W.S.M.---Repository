@@ -19,7 +19,7 @@
 ## 📌 Escopo do Projeto
 
 <br>**Pré-requisitos:**<br>
-## > Requisitos Funcionais
+## Requisitos Funcionais
 
 Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
 acessórios (código, descrição, marca, especificações técnicas, etc.).
@@ -42,7 +42,7 @@ produto, data ou cliente.
 * Multi-depósitos – Gerenciar estoque em diferentes locais (lojas,
 galpões).
 
-## >Requisitos Não Funcionais
+>Requisitos Não Funcionais
 
 * Performance – O sistema deve responder a consultas em menos de 3
 segundos, mesmo com alto volume de dados.
