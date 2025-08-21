@@ -70,8 +70,25 @@ usuários.
 * SPRINT 3 - 29/08 a 25/09
 * SPRINT 4 - 26/09 a 30/10
 * SPRINT 5 - 31/10 a 04/12
-
+  
 ### As Sprints
+
+* SPRINT 1 (Link da pasta): Concluído
+* SPRINT 2 (Link da pasta): Concluído
+* SPRINT 3 - 29/08 a 25/09
+* SPRINT 4 - 26/09 a 30/10
+* SPRINT 5 - 31/10 a 04/12
+
+### Tecnologias Utilizadas
+
+* Banco de Dados: MSQL
+* Back-end: JavaScript e PHP
+* Front-end: HTML, JavaScript, CSS
+* Ferramentas: Visual Studio Code, GitHub e Figma
+
+### Metodologia Utilizada
+
+* Metodologia Ágil: Framework Scrum
 
 
 
