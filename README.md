@@ -79,8 +79,7 @@ usuários.
 
 ## 📂 Metodologia Utilizada  
 
-- **Metodologia Ágil:** Framework Scrum
-  
+- **Metodologia Ágil:** Framework <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a>
 
 
 
