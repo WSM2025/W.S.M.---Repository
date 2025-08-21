@@ -19,6 +19,12 @@
 ### Escopo do Projeto
 
 <br>**Pré-requisitos:**<br>
+<table>
+  <tr>
+    <td>Este é o texto da primeira coluna</td>
+    <td><img src="URL_DA_IMAGEM" alt="Descrição da imagem" width="200"/></td>
+  </tr>
+</table>
 
 >Requisitos Funcionais
 
