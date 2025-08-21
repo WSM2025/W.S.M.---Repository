@@ -140,7 +140,7 @@ usuários.
   </tr>
 
 <tr>
-    <td><img src="Gih.jpg" alt="Imagem 1" width="100"></td>
+    <td><img src="URL_DA_IMAGEM_2" alt="Imagem 1" width="100"></td>
     <td>Giovana Levindo</td>
     <td>Product Owner</td>
     <td>
