@@ -21,38 +21,38 @@
 <br>**Pré-requisitos:**<br>
 > Requisitos Funcionais
 
-Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
+* Cadastro de Produtos: Registrar modelos de ar-condicionado, peças e
 acessórios (código, descrição, marca, especificações técnicas, etc.).
-* Controle de Entrada e Saída – Registrar movimentações (compras,
+* Controle de Entrada e Saída: Registrar movimentações (compras,
 vendas, devoluções) com data, quantidade e responsável.
-* Gestão de Fornecedores – Cadastrar e gerenciar fornecedores de
+* Gestão de Fornecedores: Cadastrar e gerenciar fornecedores de
 equipamentos e peças.
-* Alertas de Estoque Mínimo – Notificar quando o estoque estiver abaixo
+* Alertas de Estoque Mínimo: Notificar quando o estoque estiver abaixo
 do nível definido.
-* Rastreamento de Lotes/Séries – Controlar números de série e lotes para
+* Rastreamento de Lotes/Séries: Controlar números de série e lotes para
 garantir rastreabilidade.
-* Relatórios de Estoque – Emitir relatórios de inventário, movimentação e
+* Relatórios de Estoque: Emitir relatórios de inventário, movimentação e
 giro de produtos.
-* Integração com Nota Fiscal – Associar entradas/saídas a documentos
+* Integração com Nota Fiscal: Associar entradas/saídas a documentos
 fiscais (NF-e, XML).
-* Reserva de Produtos – Bloquear itens para vendas ou serviços
+* Reserva de Produtos: Bloquear itens para vendas ou serviços
 agendados.
-* Histórico de Movimentações – Consultar transações passadas por
+* Histórico de Movimentações: Consultar transações passadas por
 produto, data ou cliente.
-* Multi-depósitos – Gerenciar estoque em diferentes locais (lojas,
+* Multi-depósitos: Gerenciar estoque em diferentes locais (lojas,
 galpões).
 
 >Requisitos Não Funcionais
 
-* Performance – O sistema deve responder a consultas em menos de 3
+* Performance: O sistema deve responder a consultas em menos de 3
 segundos, mesmo com alto volume de dados.
-* Segurança – Autenticação de usuários com níveis de acesso (ex:
+* Segurança: Autenticação de usuários com níveis de acesso (ex:
 funcionário vs. administrador).
-* Disponibilidade – Sistema acessível 24/7 (exceto para manutenção
+* Disponibilidade: Sistema acessível 24/7 (exceto para manutenção
 programada).
-* Backup Automático – Cópia diária dos dados em servidor externo ou
+* Backup Automático: Cópia diária dos dados em servidor externo ou
 cloud.
-* Usabilidade – Interface intuitiva, com treinamento rápido para novos
+* Usabilidade: Interface intuitiva, com treinamento rápido para novos
 usuários.
 
 
