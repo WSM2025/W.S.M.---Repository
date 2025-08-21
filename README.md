@@ -81,7 +81,7 @@ usuários.
 
 - **Metodologia Ágil:** Framework <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a>
 
-## Product Backlog
+## 📈 Product Backlog
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/graficobranco.jpeg">
