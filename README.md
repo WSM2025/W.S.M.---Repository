@@ -120,7 +120,7 @@ usuários.
 
 
 
-<h3>Integrantes da equipe</h3>
+<h3> 🏢 Integrantes da equipe</h3>
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
