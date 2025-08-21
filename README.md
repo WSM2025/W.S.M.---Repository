@@ -80,7 +80,7 @@ usuários.
 ## 📂 Metodologia Utilizada  
 
 - **Metodologia Ágil:** Framework Scrum
-- 
+  
 
 
 
