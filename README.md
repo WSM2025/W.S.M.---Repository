@@ -129,7 +129,7 @@ usuários.
     <td>Scrum Master</td>
     <td>
         <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_?utm_source=share&utm_medium=member_android&rcm=ACoAAET2ehIBaWHd5G3B8Lx7dGOOLZvkpah6ls4" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="100">
+            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="50">
         </a>
      </td>
     <td>
