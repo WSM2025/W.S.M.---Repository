@@ -19,7 +19,7 @@
 ## 📌 Escopo do Projeto
 
 <br>**Pré-requisitos:**<br>
-## >Requisitos Funcionais
+## > Requisitos Funcionais
 
 Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
 acessórios (código, descrição, marca, especificações técnicas, etc.).
