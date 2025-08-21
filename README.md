@@ -86,7 +86,7 @@ usuários.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/graficobranco.jpeg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/graficopreto.jpeg">
-  <img alt="Logo do projeto" src="logo_preta.png" width="300px">
+  <img alt="Logo do projeto" src="logo_preta.png" width="100">
 </picture>
 
 
