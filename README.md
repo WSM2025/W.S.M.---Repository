@@ -120,71 +120,79 @@ usuários.
 
 
 
->Integrantes da equipe
+<h3>Integrantes da equipe</h3>
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <td><img src="URL_DA_IMAGEM_1" alt="Imagem 1" width="100"></td>
+    <td style="text-align:center">
+      <img src="URL_DA_IMAGEM_1" alt="Lucas Lica" width="50" style="display:block; margin:auto;">
+    </td>
     <td>Lucas Lica</td>
     <td>Scrum Master</td>
-    <td>
-        <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_?utm_source=share&utm_medium=member_android&rcm=ACoAAET2ehIBaWHd5G3B8Lx7dGOOLZvkpah6ls4" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
-    <td>
-        <a href="https://github.com/LLLucasLL" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
+    <td style="text-align:center">
+      <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="LinkedIn" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://github.com/LLLucasLL" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="GitHub" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
   </tr>
 
-<tr>
-    <td><img src="URL_DA_IMAGEM_2" alt="Imagem 1" width="100"></td>
+  <tr>
+    <td style="text-align:center">
+      <img src="URL_DA_IMAGEM_1" alt="Giovana Levindo" width="50" style="display:block; margin:auto;">
+    </td>
     <td>Giovana Levindo</td>
     <td>Product Owner</td>
-    <td>
-        <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_?utm_source=share&utm_medium=member_android&rcm=ACoAAET2ehIBaWHd5G3B8Lx7dGOOLZvkpah6ls4" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
-    <td>
-        <a href="https://github.com/LLLucasLL" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
+    <td style="text-align:center">
+      <a href="https://www.linkedin.com/in/giovana-levindo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="LinkedIn" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://github.com/Glevindo" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="GitHub" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
   </tr>
 
-<tr>
-    <td><img src="URL_DA_IMAGEM_1" alt="Imagem 1" width="100"></td>
+  <tr>
+    <td style="text-align:center">
+      <img src="URL_DA_IMAGEM_1" alt="João Vitor Mota" width="50" style="display:block; margin:auto;">
+    </td>
     <td>João Vitor Mota</td>
     <td>Dev Team</td>
-    <td>
-        <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_?utm_source=share&utm_medium=member_android&rcm=ACoAAET2ehIBaWHd5G3B8Lx7dGOOLZvkpah6ls4" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
-    <td>
-        <a href="https://github.com/LLLucasLL" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
+    <td style="text-align:center">
+      <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="LinkedIn" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://github.com/yMotaz" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="GitHub" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
   </tr>
 
-<tr>
-    <td><img src="URL_DA_IMAGEM_1" alt="Imagem 1" width="100"></td>
+  <tr>
+    <td style="text-align:center">
+      <img src="URL_DA_IMAGEM_1" alt="João Vitor Alvarenga" width="50" style="display:block; margin:auto;">
+    </td>
     <td>João Vitor Alvarenga</td>
     <td>Dev Team</td>
-    <td>
-        <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_?utm_source=share&utm_medium=member_android&rcm=ACoAAET2ehIBaWHd5G3B8Lx7dGOOLZvkpah6ls4" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
-    <td>
-        <a href="https://github.com/LLLucasLL" target="_blank">
-            <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="Imagem 3" width="100">
-        </a>
-     </td>
+    <td style="text-align:center">
+      <a href="https://www.linkedin.com/posts/vaz-10k_vagaho10k-vagaho10k-empregos10k-activity-7362229100184313857-zfV_" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/linkedin.png" alt="LinkedIn" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://github.com/LLLucasLL" target="_blank">
+        <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/github.png" alt="GitHub" width="50" style="display:block; margin:auto;">
+      </a>
+    </td>
   </tr>
 </table>
 
