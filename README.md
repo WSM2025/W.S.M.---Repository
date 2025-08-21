@@ -63,6 +63,21 @@ cloud.
 usuários.
 
 
+### Planejamento de Entregas
+
+SPRINT 1 - 02/06 a 03/07
+SPRINT 2 - 04/07 a 28/08
+SPRINT 3 - 29/08 a 25/09
+SPRINT 4 - 26/09 a 30/10
+SPRINT 5 - 31/10 a 04/12
+
+### As Sprints
+
+
+
+
+
+
 
 
 
