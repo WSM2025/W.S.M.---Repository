@@ -143,7 +143,7 @@ usuários.
 
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="Giovana Levindo" width="50" style="display:block; margin:auto;">
+      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="Giovana Levindo" width="70" style="display:block; margin:auto;">
     </td>
     <td>Giovana Levindo</td>
     <td>Product Owner</td>
