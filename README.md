@@ -71,8 +71,8 @@ usuários.
 ## 🚀 Tecnologias Utilizadas  
 
 - **Banco de Dados:** MSQL  
-- **Back-end:** JavaScript, PHP  
-- **Front-end:** HTML, CSS, JavaScript  
+- **Back-end:** JavaScript, PHP
+- **Front-end:** React Native
 - **Ferramentas:** Visual Studio Code, GitHub, Figma  
 
 ---
