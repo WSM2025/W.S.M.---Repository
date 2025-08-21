@@ -16,9 +16,6 @@
 ### Desafio
 *Temos o desafio de desenvolver um sistema de gerenciamento de estoque voltado para a empresa Service Facility prestadora de serviços de instalação de ar-condicionado em residências, prédios e estabelecimentos comerciais, com o objetivo de controlar de forma eficiente a entrada, saída e a quantidade disponível de produtos e equipamentos. O sistema visa melhorar a organização dos materiais, otimizar o tempo de reposição, reduzir perdas e promover uma gestão mais eficaz dos recursos.*
 
-### Escopo do Projeto
-
-<br>**Pré-requisitos:**<br>
 <table>
   <tr>
     <td>Este é o texto da primeira coluna</td>
@@ -26,6 +23,9 @@
   </tr>
 </table>
 
+### Escopo do Projeto
+
+<br>**Pré-requisitos:**<br>
 >Requisitos Funcionais
 
 Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
@@ -65,11 +65,11 @@ usuários.
 
 ### Planejamento de Entregas
 
-SPRINT 1 - 02/06 a 03/07
-SPRINT 2 - 04/07 a 28/08
-SPRINT 3 - 29/08 a 25/09
-SPRINT 4 - 26/09 a 30/10
-SPRINT 5 - 31/10 a 04/12
+*SPRINT 1 - 02/06 a 03/07
+*SPRINT 2 - 04/07 a 28/08
+*SPRINT 3 - 29/08 a 25/09
+*SPRINT 4 - 26/09 a 30/10
+*SPRINT 5 - 31/10 a 04/12
 
 ### As Sprints
 
