@@ -142,7 +142,7 @@ usuários.
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="Giovana Levindo" alt="Lucas Lica" width="70" style="display:block; margin:auto;">
+      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/Lucas.JPG" alt="Lucas Lica" alt="Lucas Lica" width="70" style="display:block; margin:auto;">
     </td>
     <td>Lucas Lica</td>
     <td>Scrum Master</td>
