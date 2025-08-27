@@ -178,7 +178,7 @@ usuários.
 
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="Giovana Levindo" alt="João Vitor Mota" width="70" style="display:block; margin:auto;">
+      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="João Mota" alt="João Vitor Mota" width="70" style="display:block; margin:auto;">
     </td>
     <td>João Vitor Mota</td>
     <td>Dev Team</td>
