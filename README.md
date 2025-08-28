@@ -7,7 +7,7 @@
 </picture>
 
 ## 🎯 Tema do Semestre
-*Service Facilty*
+*Wheather Storage Managment*
 
 <div align="left">
 <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/svfac.png" width="200px"/>
@@ -85,7 +85,7 @@ usuários.
 
 ## 📂 Apresentando o Projeto 
 
-🔗 Para visualizar a apresentação do protótipo <a href="" target="_blank">clique aqui</a>
+🔗 Para visualizar a apresentação do protótipo <a href="https://www.figma.com/design/NqJgX1R8gRsQg6S6Q2jm6c/Dashboard?node-id=0-1&m=dev&t=fZIF2gHV98CJmNPc-1Connect" target="_blank">clique aqui</a>
 
 ---
 
