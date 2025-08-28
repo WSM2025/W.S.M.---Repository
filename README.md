@@ -196,7 +196,7 @@ usuários.
 
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/gilev.jpeg" alt="Giovana Levindo" alt="João Vitor Alvarenga" width="70" style="display:block; margin:auto;">
+      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/WhatsApp%20Image%202025-08-27%20at%2020.37.28.jpeg" alt="Alvarenga" alt="João Vitor Alvarenga" width="70" style="display:block; margin:auto;">
     </td>
     <td>João Vitor Alvarenga</td>
     <td>Dev Team</td>
