@@ -7,7 +7,7 @@
 </picture>
 
 ## 🎯 Tema do Semestre
-*Wheather Storage Managment*
+*Weather Storage Managment*
 
 <div align="left">
 <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/svfac.png" width="200px"/>
