@@ -1,0 +1,25 @@
+﻿1° Descompactar a pasta e colocar em "Documentos" no explorador de arquivos;
+2° Abra o "Xampp" e habilite o Apache e o Xampp;
+3° Importe o banco de dados ou faça manualmente pelo o código do arquivo XAMPP.docx;
+4° Abra a pasta no Visual Studio Code;
+5° Abra o terminal no Visual Studio Code e dentro de ...
+
+vamos fazer o BACKEND
+PS C:\Users\aluno\Documents\WSM7.0> npm install cors
+PS C:\Users\aluno\Documents\WSM7.0> npm install express
+PS C:\Users\aluno\Documents\WSM7.0> npm install axios
+PS C:\Users\aluno\Documents\WSM7.0> npm install boxicons -> se não for aqui então é no frintend logo após o npm install
+
+6° Ainda no terminal execute o comando cd client
+
+vamos fazer o FRONTEND
+PS C:\Users\aluno\Documents\WSM7.0\client> npm install
+
+8° Execute o comando npm run dev
+PS C:\Users\aluno\Documents\WSM7.0\client> npm run dev
+
+9° Agora vamos abrir o prompt de comando, pesquisando pelo navegador do Windows.
+10° Execute o comando C:\Users\aluno>cd C:\Users\aluno\Documents\WSM7.0\src
+11° Execute o comando node index.js
+
+AGORA ESTÁ FUNCIONANDO TANTO O BACKEND COMO O FRONTEND, VAMOS TESTAR
